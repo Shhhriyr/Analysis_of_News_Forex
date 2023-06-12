@@ -5,3 +5,4 @@ first chart is showing the forex chart
 second chart is showing base currency
 third chart is showing quote Currency
 positive values in second and third chart will show you the impact of news on first chart
+its Demo
